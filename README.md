@@ -15,7 +15,7 @@ The example is explained in more details in the application note [AN2633](#Relat
 
 - [Atmel Studio 7.0.2397 or later](https://www.microchip.com/mplab/avr-support/atmel-studio-7)
 - ATtiny_DFP 1.5.315 or later
-- AVR/GNU C Compiler 5.4.0 (buildt into studio)
+- AVR/GNU C Compiler 5.4.0 (built into studio)
 
 ## Hardware Used
 
