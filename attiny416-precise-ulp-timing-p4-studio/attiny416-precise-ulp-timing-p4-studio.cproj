@@ -12,9 +12,9 @@
     <OutputFileName>$(MSBuildProjectName)</OutputFileName>
     <OutputFileExtension>.elf</OutputFileExtension>
     <OutputDirectory>$(MSBuildProjectDirectory)\$(Configuration)</OutputDirectory>
-    <AssemblyName>PreciseULPTimingP4</AssemblyName>
-    <Name>PreciseULPTimingP4</Name>
-    <RootNamespace>PreciseULPTimingP4</RootNamespace>
+    <AssemblyName>attiny416-precise-ulp-timing-p4-studio</AssemblyName>
+    <Name>attiny416-precise-ulp-timing-p4-studio</Name>
+    <RootNamespace>attiny416-precise-ulp-timing-p4-studio</RootNamespace>
     <ToolchainFlavour>Native</ToolchainFlavour>
     <KeepTimersRunning>true</KeepTimersRunning>
     <OverrideVtor>false</OverrideVtor>
