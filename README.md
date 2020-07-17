@@ -24,7 +24,7 @@ The example is explained in more details in the application note [AN2633](https:
 ## Operation
 
 1. Download the zip file or clone the example to get the source code.
-2. Open `PreciseULPTimingP4.atsln` in Atmel Studio.
+2. Open `attiny416-precise-ulp-timing-p4-studio.atsln` in Atmel Studio.
 3. Connect the AVR P4 with your computer.
 4. In your menu bar in Atmel Studio go to `Debug->Start Without Debugging` or press `CTRL + ALT + F5`.
 
