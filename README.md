@@ -2,9 +2,9 @@
 
 # ATtiny416 Precise ULP Timing on P4
 
-This example is a demonstration of precise, ultra-low-power timing using periodic enabling of the 32.768kHz external crystal oscillator on the AVR P4 FEB (Field Engagement Board).
+This example is a demonstration of precise, ultra-low-power timing using periodic enabling of the 32.768 kHz external crystal oscillator on the AVR P4 FEB (Field Engagement Board).
 
-The example is explained in more details in the application note [AN2633](#Related-Documentation)
+The example is explained in more details in the application note [AN2633](https://www.microchip.com//wwwAppNotes/AppNotes.aspx?appnote=en604346).
 
 ## Related Documentation
 
@@ -23,10 +23,11 @@ The example is explained in more details in the application note [AN2633](#Relat
 
 ## Operation
 
-1. Open `PreciseULPTimingP4.atsln` in Atmel Studio.
-2. Connect the AVR P4 with your computer.
-3. In your menu bar in Atmel Studio go to `Debug->Start Without Debugging` or press `CTRL + ALT + F5`.
+1. Download the zip file or clone the example to get the source code.
+2. Open `PreciseULPTimingP4.atsln` in Atmel Studio.
+3. Connect the AVR P4 with your computer.
+4. In your menu bar in Atmel Studio go to `Debug->Start Without Debugging` or press `CTRL + ALT + F5`.
 
 ## Conclusion
 
-We have here shown the possibility to use the ATtiny416 as a ultra-low-power timing on a AVR P4.
+We have here shown the possibility to use the ATtiny416 for ultra-low-power timing on a AVR P4.
